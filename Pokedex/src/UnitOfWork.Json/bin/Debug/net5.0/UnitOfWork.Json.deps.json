@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UnitOfWork.Json/1.0.0": {
+        "dependencies": {
+          "Repository.Json": "1.0.0",
+          "UnitOfWork.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "UnitOfWork.Json.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "runtime": {
+          "Models.dll": {}
+        }
+      },
+      "Repository.Interfaces/1.0.0": {
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "runtime": {
+          "Repository.Interfaces.dll": {}
+        }
+      },
+      "Repository.Json/1.0.0": {
+        "dependencies": {
+          "Repository.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "Repository.Json.dll": {}
+        }
+      },
+      "UnitOfWork.Interfaces/1.0.0": {
+        "dependencies": {
+          "Repository.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "UnitOfWork.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnitOfWork.Json/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repository.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repository.Json/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnitOfWork.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\pokedex\Pokedex\src\Common.Paging\obj\Debug\netcoreapp3.1\Common.Paging.AssemblyInfoInputs.cache
+D:\pokedex\Pokedex\src\Common.Paging\obj\Debug\netcoreapp3.1\Common.Paging.AssemblyInfo.cs
+D:\pokedex\Pokedex\src\Common.Paging\obj\Debug\netcoreapp3.1\Common.Paging.csproj.CoreCompileInputs.cache
+D:\pokedex\Pokedex\src\Common.Paging\bin\Debug\netcoreapp3.1\Common.Paging.deps.json
+D:\pokedex\Pokedex\src\Common.Paging\bin\Debug\netcoreapp3.1\Common.Paging.dll
+D:\pokedex\Pokedex\src\Common.Paging\bin\Debug\netcoreapp3.1\Common.Collection.dll
+D:\pokedex\Pokedex\src\Common.Paging\bin\Debug\netcoreapp3.1\Common.Collection.pdb
+D:\pokedex\Pokedex\src\Common.Paging\obj\Debug\netcoreapp3.1\Common.Paging.csprojAssemblyReference.cache
+D:\pokedex\Pokedex\src\Common.Paging\obj\Debug\netcoreapp3.1\Common.Paging.csproj.CopyComplete
+D:\pokedex\Pokedex\src\Common.Paging\bin\Debug\netcoreapp3.1\Common.Paging.pdb
+D:\pokedex\Pokedex\src\Common.Paging\obj\Debug\netcoreapp3.1\Common.Paging.dll
+D:\pokedex\Pokedex\src\Common.Paging\obj\Debug\netcoreapp3.1\Common.Paging.pdb

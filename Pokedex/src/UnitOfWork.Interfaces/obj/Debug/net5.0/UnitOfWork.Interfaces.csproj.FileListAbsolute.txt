@@ -1,0 +1,14 @@
+D:\pokedex\Pokedex\src\UnitOfWork.Interfaces\bin\Debug\net5.0\UnitOfWork.Interfaces.deps.json
+D:\pokedex\Pokedex\src\UnitOfWork.Interfaces\bin\Debug\net5.0\UnitOfWork.Interfaces.dll
+D:\pokedex\Pokedex\src\UnitOfWork.Interfaces\bin\Debug\net5.0\UnitOfWork.Interfaces.pdb
+D:\pokedex\Pokedex\src\UnitOfWork.Interfaces\bin\Debug\net5.0\Models.dll
+D:\pokedex\Pokedex\src\UnitOfWork.Interfaces\bin\Debug\net5.0\Repository.Interfaces.dll
+D:\pokedex\Pokedex\src\UnitOfWork.Interfaces\bin\Debug\net5.0\Repository.Interfaces.pdb
+D:\pokedex\Pokedex\src\UnitOfWork.Interfaces\bin\Debug\net5.0\Models.pdb
+D:\pokedex\Pokedex\src\UnitOfWork.Interfaces\obj\Debug\net5.0\UnitOfWork.Interfaces.csprojAssemblyReference.cache
+D:\pokedex\Pokedex\src\UnitOfWork.Interfaces\obj\Debug\net5.0\UnitOfWork.Interfaces.AssemblyInfoInputs.cache
+D:\pokedex\Pokedex\src\UnitOfWork.Interfaces\obj\Debug\net5.0\UnitOfWork.Interfaces.AssemblyInfo.cs
+D:\pokedex\Pokedex\src\UnitOfWork.Interfaces\obj\Debug\net5.0\UnitOfWork.Interfaces.csproj.CoreCompileInputs.cache
+D:\pokedex\Pokedex\src\UnitOfWork.Interfaces\obj\Debug\net5.0\UnitOfWork.Interfaces.csproj.CopyComplete
+D:\pokedex\Pokedex\src\UnitOfWork.Interfaces\obj\Debug\net5.0\UnitOfWork.Interfaces.dll
+D:\pokedex\Pokedex\src\UnitOfWork.Interfaces\obj\Debug\net5.0\UnitOfWork.Interfaces.pdb

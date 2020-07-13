@@ -1,0 +1,8 @@
+D:\pokedex\Pokedex\src\Common.Collection\bin\Debug\netcoreapp3.1\Common.Collection.deps.json
+D:\pokedex\Pokedex\src\Common.Collection\bin\Debug\netcoreapp3.1\Common.Collection.dll
+D:\pokedex\Pokedex\src\Common.Collection\bin\Debug\netcoreapp3.1\Common.Collection.pdb
+D:\pokedex\Pokedex\src\Common.Collection\obj\Debug\netcoreapp3.1\Common.Collection.AssemblyInfoInputs.cache
+D:\pokedex\Pokedex\src\Common.Collection\obj\Debug\netcoreapp3.1\Common.Collection.AssemblyInfo.cs
+D:\pokedex\Pokedex\src\Common.Collection\obj\Debug\netcoreapp3.1\Common.Collection.csproj.CoreCompileInputs.cache
+D:\pokedex\Pokedex\src\Common.Collection\obj\Debug\netcoreapp3.1\Common.Collection.dll
+D:\pokedex\Pokedex\src\Common.Collection\obj\Debug\netcoreapp3.1\Common.Collection.pdb

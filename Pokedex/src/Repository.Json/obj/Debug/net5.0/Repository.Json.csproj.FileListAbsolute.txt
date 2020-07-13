@@ -1,0 +1,14 @@
+D:\pokedex\Pokedex\src\Repository.Json\bin\Debug\net5.0\Repository.Json.deps.json
+D:\pokedex\Pokedex\src\Repository.Json\bin\Debug\net5.0\Repository.Json.dll
+D:\pokedex\Pokedex\src\Repository.Json\bin\Debug\net5.0\Repository.Json.pdb
+D:\pokedex\Pokedex\src\Repository.Json\bin\Debug\net5.0\Models.dll
+D:\pokedex\Pokedex\src\Repository.Json\bin\Debug\net5.0\Repository.Interfaces.dll
+D:\pokedex\Pokedex\src\Repository.Json\bin\Debug\net5.0\Repository.Interfaces.pdb
+D:\pokedex\Pokedex\src\Repository.Json\bin\Debug\net5.0\Models.pdb
+D:\pokedex\Pokedex\src\Repository.Json\obj\Debug\net5.0\Repository.Json.csprojAssemblyReference.cache
+D:\pokedex\Pokedex\src\Repository.Json\obj\Debug\net5.0\Repository.Json.AssemblyInfoInputs.cache
+D:\pokedex\Pokedex\src\Repository.Json\obj\Debug\net5.0\Repository.Json.AssemblyInfo.cs
+D:\pokedex\Pokedex\src\Repository.Json\obj\Debug\net5.0\Repository.Json.csproj.CoreCompileInputs.cache
+D:\pokedex\Pokedex\src\Repository.Json\obj\Debug\net5.0\Repository.Json.csproj.CopyComplete
+D:\pokedex\Pokedex\src\Repository.Json\obj\Debug\net5.0\Repository.Json.dll
+D:\pokedex\Pokedex\src\Repository.Json\obj\Debug\net5.0\Repository.Json.pdb

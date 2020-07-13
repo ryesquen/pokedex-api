@@ -1,0 +1,16 @@
+D:\pokedex\Pokedex\src\Repository.Interfaces\bin\Debug\netcoreapp3.1\Repository.Interfaces.deps.json
+D:\pokedex\Pokedex\src\Repository.Interfaces\bin\Debug\netcoreapp3.1\Repository.Interfaces.dll
+D:\pokedex\Pokedex\src\Repository.Interfaces\bin\Debug\netcoreapp3.1\Repository.Interfaces.pdb
+D:\pokedex\Pokedex\src\Repository.Interfaces\bin\Debug\netcoreapp3.1\Models.dll
+D:\pokedex\Pokedex\src\Repository.Interfaces\bin\Debug\netcoreapp3.1\Models.pdb
+D:\pokedex\Pokedex\src\Repository.Interfaces\obj\Debug\netcoreapp3.1\Repository.Interfaces.csprojAssemblyReference.cache
+D:\pokedex\Pokedex\src\Repository.Interfaces\obj\Debug\netcoreapp3.1\Repository.Interfaces.AssemblyInfoInputs.cache
+D:\pokedex\Pokedex\src\Repository.Interfaces\obj\Debug\netcoreapp3.1\Repository.Interfaces.AssemblyInfo.cs
+D:\pokedex\Pokedex\src\Repository.Interfaces\obj\Debug\netcoreapp3.1\Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\pokedex\Pokedex\src\Repository.Interfaces\obj\Debug\netcoreapp3.1\Repository.Interfaces.csproj.CopyComplete
+D:\pokedex\Pokedex\src\Repository.Interfaces\obj\Debug\netcoreapp3.1\Repository.Interfaces.dll
+D:\pokedex\Pokedex\src\Repository.Interfaces\obj\Debug\netcoreapp3.1\Repository.Interfaces.pdb
+D:\pokedex\Pokedex\src\Repository.Interfaces\bin\Debug\netcoreapp3.1\Common.Collection.dll
+D:\pokedex\Pokedex\src\Repository.Interfaces\bin\Debug\netcoreapp3.1\Common.Paging.dll
+D:\pokedex\Pokedex\src\Repository.Interfaces\bin\Debug\netcoreapp3.1\Common.Paging.pdb
+D:\pokedex\Pokedex\src\Repository.Interfaces\bin\Debug\netcoreapp3.1\Common.Collection.pdb
